@@ -1,4 +1,4 @@
-- 👋 Hi! I’m Wenqing, a PhD student at Northeastern University. My research focus is representing human cognition and behavior in autonomous agents/robots and improving their abilities in acquiring knowledge about the environments. My research also focuses on real-world applications of reinforcement learning and intelligent autonomous agents.
+- I’m Wenqing Wang, a CS Ph.D. student at Khoury College of Northeastern University, advised by Dr. Stacy Marsella, working on AI research. My research interests include machine learning, computer vision, natural language processing, and human-robot interaction.
 
 <!---
 wnqw/wnqw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
