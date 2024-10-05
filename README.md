@@ -1,8 +1,8 @@
-- I’m Wenqing Wang, a CS Ph.D. student at Khoury College of Northeastern University, advised by Dr. Yun Raymond Fu, working on AI research (particularly computer vision, my research interests also include machine learning and natural language processing.
+- I’m Wenqing Wang, a CS Ph.D. student at Khoury College of Northeastern University, advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/), working on Computer Vision and AI research.
 - My detailed research interests are:
-- Computer Vision (NeRF/NeLF/3D novel-view synthesis, 3D object reconstruction, detection/recognition, diffusion models, text-to-image/video generation)
-- Machine Learning (text-to-music/audio generation, hierarchical reinforcement learning, meta-learning)
-- Natural Language Processing (LLMs)
+* Computer Vision (3D novel-view synthesis (NeRF, NeLF, Gaussian Splatting, etc.); VLMs, multi-modal generations, video and image generation/understanding; diffusion; AIGC)
+* Machine Learning (AGI; autonomous driving; embodied AI)
+* Natural Language Processing (LLMs)
 
 <!---
 wnqw/wnqw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
