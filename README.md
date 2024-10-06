@@ -5,9 +5,9 @@ Hi there😃 I'm Wenqing Wang, currently pursuing a Ph.D. in Computer Science at
 * Machine Learning (AGI; autonomous driving; embodied AI)
 * Natural Language Processing (LLMs)
 
-[![Wenqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnqw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnqw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wenqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnqw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 wnqw/wnqw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
