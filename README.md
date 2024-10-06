@@ -5,7 +5,7 @@ Hi there😃 I'm Wenqing Wang, currently pursuing a Ph.D. in Computer Science at
 * Machine Learning (AGI; autonomous driving; embodied AI)
 * Natural Language Processing (LLMs)
 
-[![Wenqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnqw&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Wenqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnqw&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnqw&layout=compact)
 <!---
