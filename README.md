@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gif3.gif" >
+  <img src="assets/gif.gif" >
 </p>
 
 
@@ -10,7 +10,7 @@ I'm currently pursuing a Ph.D. in Computer Science at Northeastern University's 
 * Machine Learning (AGI; autonomous driving; embodied AI)
 * Natural Language Processing (LLMs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnqw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnqw&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Wenqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnqw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
