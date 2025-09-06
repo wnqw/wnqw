@@ -9,7 +9,7 @@ My research interests span computer vision, generative AI, and artificial intell
 
 * Generative AI [VLMs/LLMs, multi-modal generation, diffusion models, video and image generation/understanding]
 * Neural Rendering [NeRF, Gaussian Splatting, 3D novel-view synthesis]
-* Artificial Intelligence [ML/DL, brain-inspired algorithms, attention mechanisms, autonomous driving]
+* Artificial Intelligence [ML/DL, brain-inspired algorithms, attention mechanisms, autonomous driving, AI-driven longevity/health research]. 
 
 I am always open to collaboration.
 
