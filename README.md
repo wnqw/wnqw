@@ -15,6 +15,3 @@ I am always open to collaboration.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnqw&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Wenqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnqw&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
